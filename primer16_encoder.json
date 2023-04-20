@@ -1,0 +1,6 @@
+{"encoder":
+{"enabled":1,
+  "definition":[
+    {"pin":[18,17],"step":1,"action":[["ANY(1)","ANY(39)"], ["ANY(22)","ANY(26)"], ["ANY(39)","ANY(39)"], ["ANY(39)","ANY(39)"], ["ANY(39)","ANY(39)"]]},
+    {"pin":[20,19],"step":1,"action":[["ANY(1)","ANY(39)"], ["ANY(23)","ANY(27)"], ["ANY(39)","ANY(39)"], ["ANY(39)","ANY(39)"], ["ANY(39)","ANY(39)"]]}
+  ]}}
